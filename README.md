@@ -1,2 +1,3 @@
 # training
-training classes
+training classes on Cousera
+
